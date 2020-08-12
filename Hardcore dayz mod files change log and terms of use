@@ -1,0 +1,41 @@
+Hardcore DAYZ xml Mod Changelog & Terms Of Use
+
+Limited Testing on PS4 Chernarus Nitrado Private Server DAYZ Version 1.08 Aug 2020.
+
+Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com with screenshots.
+
+TERMS OF USE
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
+THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Using these modded xml files could break the functioning of your DAYZ server, requiring a reinstall that would wipe
+all player progress.
+
+Using these modded xml files neccessitates increased regular restarts to prevent server crashing.
+
+It is suggested you thoroughly test your server after applying these files to ensure proper
+functioning of your server.
+
+CHANGELOG:
+
+50% More Zombies.
+Zombie Military Hordes in countryside.
+20% less food and drink.
+20% less water containers.
+20% less chickens
+20% more deer, pigs, goats
+
+More Bears Spawns.
+More Wolf Packs Spawn.
+
+I recommend you run a full day / night cycle, disable cross-hairs & personal light, and have FPP only.
+
+GOOD LUCK!
+
+
+
+
